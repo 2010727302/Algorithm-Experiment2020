@@ -1,0 +1,8 @@
+﻿  Birth.cpp
+E:\大三\算法分析和设计\小组\ScenicRegion\Project1\Birth.cpp(44,38): warning C4305: “参数”: 从“__int64”到“int”截断
+E:\大三\算法分析和设计\小组\ScenicRegion\Project1\Birth.cpp(44,14): warning C4309: “参数”: 截断常量值
+  Digit.cpp
+E:\大三\算法分析和设计\小组\ScenicRegion\Project1\Digit.cpp(66,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+  正在生成代码...
+  Project1.vcxproj -> E:\大三\算法分析和设计\小组\ScenicRegion\x64\Debug\ScenicRegion.exe

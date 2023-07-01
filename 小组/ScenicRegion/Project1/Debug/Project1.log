@@ -1,0 +1,5 @@
+﻿D:\vscommunity\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(Project1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Birth.cpp
+D:\wyh\dsDesign\scenic\ScenicRegion\Project1\Birth.cpp(47,38): warning C4305: “参数”: 从“__int64”到“int”截断
+D:\wyh\dsDesign\scenic\ScenicRegion\Project1\Birth.cpp(47,14): warning C4309: “参数”: 截断常量值
+  Project1.vcxproj -> D:\wyh\dsDesign\scenic\ScenicRegion\Debug\ScenicRegion.exe
